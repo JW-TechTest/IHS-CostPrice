@@ -1,0 +1,8 @@
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\bin\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.deps.json
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\bin\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.dll
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\bin\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.pdb
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\obj\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\obj\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.AssemblyInfo.cs
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\obj\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\obj\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.dll
+C:\Users\joshj\source\repos\WSO.CostPriceCalculation\WSO.CostPriceCalculator.Domain\obj\Debug\netcoreapp3.1\WSO.CostPriceCalculator.Domain.pdb

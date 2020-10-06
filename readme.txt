@@ -1,0 +1,5 @@
+There were a few assumptions I had to make since the test document didn't specifically state anything about them and I was doing this over the weekend so didn't want to bother anybody. It shouldn't cause any problems other than perhaps some slightly overly complicated logic.
+
+Firstly I've assumed that after selling the shares, I'm to keep track of the remaining shares to use for the next set of sale calculations. If this isn't the case then the remaining shares can be reset back to their original value by pressing the "Reset Shares" button. The document didn't state which shares should be used to cover a sale when the WeightedAverage cost method was used so I've just defaulted to using the FIFO approach.
+
+Secondly, the purchases have a "purchase date" and a sell date is defined. I assume that meant that when selling shares on that specific date, only shares that had already been purchased could be used to cover the sale. If this isn't the case then lines #47, #105, and #106 of SharePortfolio.cs can be commented out. Note that this will cause the related unit test to fail.

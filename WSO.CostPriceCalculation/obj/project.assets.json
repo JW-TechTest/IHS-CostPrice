@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WSO.CostPriceCalculator.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WSO.CostPriceCalculator.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WSO.CostPriceCalculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSO.CostPriceCalculator.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WSO.CostPriceCalculator.Domain/WSO.CostPriceCalculator.Domain.csproj",
+      "msbuildProject": "../WSO.CostPriceCalculator.Domain/WSO.CostPriceCalculator.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "WSO.CostPriceCalculator.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joshj\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\joshj\\source\\repos\\WSO.CostPriceCalculation\\WSO.CostPriceCalculation\\WSO.CostPriceCalculator.Forms.csproj",
+      "projectName": "WSO.CostPriceCalculator.Forms",
+      "projectPath": "C:\\Users\\joshj\\source\\repos\\WSO.CostPriceCalculation\\WSO.CostPriceCalculation\\WSO.CostPriceCalculator.Forms.csproj",
+      "packagesPath": "C:\\Users\\joshj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joshj\\source\\repos\\WSO.CostPriceCalculation\\WSO.CostPriceCalculation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\joshj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\joshj\\source\\repos\\WSO.CostPriceCalculation\\WSO.CostPriceCalculator.Domain\\WSO.CostPriceCalculator.Domain.csproj": {
+              "projectPath": "C:\\Users\\joshj\\source\\repos\\WSO.CostPriceCalculation\\WSO.CostPriceCalculator.Domain\\WSO.CostPriceCalculator.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

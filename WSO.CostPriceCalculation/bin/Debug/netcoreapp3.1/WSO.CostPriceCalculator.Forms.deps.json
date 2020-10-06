@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WSO.CostPriceCalculator.Forms/1.0.0": {
+        "dependencies": {
+          "WSO.CostPriceCalculator.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WSO.CostPriceCalculator.Forms.dll": {}
+        }
+      },
+      "WSO.CostPriceCalculator.Domain/1.0.0": {
+        "runtime": {
+          "WSO.CostPriceCalculator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSO.CostPriceCalculator.Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WSO.CostPriceCalculator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
